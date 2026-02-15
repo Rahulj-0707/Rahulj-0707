@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Akash Rajpurohit — a Software Engineer 👨‍💻
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Vaibhav Kulkarni — a Software Engineer 👨‍💻
 
 [![Website Badge](https://img.shields.io/badge/-akashrajpurohit.com-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://akashrajpurohit.com/?ref=github-profile-readme-badge)
 [![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/AkashRajpurohit)
